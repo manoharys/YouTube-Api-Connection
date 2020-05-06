@@ -1,3 +1,30 @@
 # YouTube-Api-Connection
+   
+   provides a wrapper for the YouTube v3 API.
+   
+---
+## Description
 
- provides a wrapper for the YouTube v3 API.
+   The YouTube Data API (v3) lets you incorporate YouTube functionality into your own application. You can use the API to fetch search 
+   results and to retrieve, insert, update, and delete resources like videos or playlists.
+
+---
+## How To Use
+
+  #### Installation
+   
+ ```html
+      git clone https://github.com/manoharys/YouTube-Api-Connection.git
+ ```
+
+  #### API Reference
+    
+  ###### Get your YouTube API key at <a href = 'https://developers.google.com/'>developers.google.com</a>
+         
+  ###### Make sure to add your API key in Script file
+         
+   ```html
+      const API = "AIzaSyCxS649H5_JQHeL74otGnrh72edKmXs"
+   ```
+---
+   
